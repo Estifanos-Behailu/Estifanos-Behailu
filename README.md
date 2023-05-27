@@ -20,7 +20,7 @@
 <p>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/521e78dc0d1e0a5f3925b9f52cc8c84096530ac5f51e7b2963e5a29bdc3bd486   /68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6c696e652e737667"><img alt="C++" src="https://camo.githubusercontent.com/521e78dc0d1e0a5f3925b9f52cc8c84096530ac5f51e7b2963e5a29bdc3bd486/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6c696e652e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" style="max-width: 100%;" width="40px" align="left"></a>
 </p>
- 
- <hr> </hr>
+<br>
+<h1 dir="auto"></h1>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estifanos-Behailu&show_icons=true&theme=github_dark)
