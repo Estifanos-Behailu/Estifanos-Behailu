@@ -37,4 +37,4 @@
 <br>
 <h1 dir="auto"></h1>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estifanos-Behailu&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estifanos-Behailu&show_icons=true&theme=transparent)
