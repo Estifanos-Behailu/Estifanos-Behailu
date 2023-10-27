@@ -29,9 +29,13 @@
 
 <p>
 <a target="_blank" rel="noopener noreferrer nofollow">
-     <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" style="max-width: 100%;" width="40px" align="left"></a     
-           
+     <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" style="max-width: 100%;" width="40px" align="left"></a          
 </a>
+</p>
+
+<p>
+<a target="_blank" rel="noopener noreferrer nofollow">    
+<img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" style="max-width: 100%;" width="40px" align="left"></a>
 </p>
 
 <br>
