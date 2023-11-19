@@ -23,7 +23,7 @@
 
 <p>
 <a target="_blank" rel="noopener noreferrer nofollow">    
-<img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="max-width: 100%;" width="40px" align="left"></a>          
+<img alt="SQL" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="max-width: 100%;" width="40px" align="left"></a>          
 </p>
 
 
